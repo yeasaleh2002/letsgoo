@@ -1,0 +1,24 @@
+{
+  "name": "letsgoo_backend",
+  "version": "1.0.0",
+  "description": "1. npm init\r 2. npm install prisma typescript tsx @types/node --save-dev\r 3. npx tsc --init\r 4. npx prisma init\r 5. npm install express\r 6. npm install ts-node-dev -D\r 7. npm install cors\r 8. npm install @types/express -D\r 9. npm i --save-dev @types/cors\r 10.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.13.1",
+    "prisma": "^6.3.1",
+    "ts-node-dev": "^2.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2"
+  }
+}
